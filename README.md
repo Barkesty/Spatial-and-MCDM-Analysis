@@ -1,4 +1,6 @@
 # Spatial-and-MCDM-Analysis
 Renewable Energy Power Station Investment Using Spatial and Multi-Criteria Decision-Making Analysis
+
 According to the Sixth Carbon Budget (Climate Change Committee, 2020), by 2050, the UK's electricity consumption is projected to be more than double current levels. To meet this demand, clean energy generation requires an approximate fourfold increase, and grid capacity must double. To stay on track for the Net Zero target, around 10 GW of new renewable capacity must be added annually.
+
 This study focuses on assisting the UK in achieving its 2050 target of expanding renewable electricity capacity. By modelling the primary factors influencing onshore wind siting decisions and utilizing suitability assessment tools, applying AHP-based MCDM and GIS suitability modelling. This study identifies and justifies 20 suitable locations for onshore wind farms within the UK. The economic feasibility of developing 20 new onshore wind farms (each with a 0.5 GW capacity) is assessed as well by estimating CAPEX, annual revenue, Net Present Value (NPV), and Levelized Cost of Electricity (LCOE), while considering both resource and cost constraints.
